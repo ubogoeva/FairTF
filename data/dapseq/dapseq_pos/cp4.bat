@@ -1,0 +1,1 @@
+copy %1_chr1.sta + %1_chr2.sta + %1_chr3.sta + %1_chr4.sta + %1_chr5.sta %1.sta

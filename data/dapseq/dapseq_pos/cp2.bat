@@ -1,0 +1,1 @@
+copy %1_%2_chr1.overlap + %1_%2_chr2.overlap + %1_%2_chr3.overlap + %1_%2_chr4.overlap + %1_%2_chr5.overlap %1_%2.overlap15
